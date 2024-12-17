@@ -1,0 +1,1 @@
+# This is my solution for the Menu project, proposed in John Smilga's React Course.
